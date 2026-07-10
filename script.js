@@ -1,4 +1,4 @@
-// ================================
+*// ================================
 // Smooth Active Navbar
 // ================================
 
@@ -62,9 +62,9 @@ observer.observe(el);
 // ================================
 
 const text = [
-"Python Backend Developer",
-"AI / ML Engineer",
-"Generative AI Engineer"
+"Graphics Designer",
+"Web Developer",
+"UI Designer",
 ];
 
 let count = 0;
@@ -102,4 +102,4 @@ setTimeout(type,80);
 
 }
 
-})();
+})();*
